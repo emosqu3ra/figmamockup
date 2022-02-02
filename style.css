@@ -1,6 +1,7 @@
 html, body {
     padding:0px;
     margin:0px;
+    font-family: 'Poppins', sans-serif;
  }
 
 a:hover {
@@ -20,6 +21,8 @@ header {
 
 header h1 {
     padding-top: 20%;
+    font-family: 'Neonderthaw', cursive;
+    font-size: 84px;
 }
 
 header button {
@@ -29,6 +32,7 @@ header button {
     padding: 2em;
     margin: 2.5em;
     font-size: 18px;
+    font-family: 'Poppins', sans-serif;
 }
 
 /* NAVIGATION */
