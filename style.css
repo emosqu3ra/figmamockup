@@ -11,7 +11,7 @@ a:hover {
 /* HEADING */
 
 header {
-    background-image: linear-gradient(rgba(116, 101, 101, 0.75), rgba(0,0,0,0.75)), url("beach.jpg");
+    background-image: linear-gradient(rgba(116, 101, 101, 0.75), rgba(0,0,0,0.75)), url("./images/beach.jpg");
     background-position: center;
     height: 800px;
     width: 100%;
